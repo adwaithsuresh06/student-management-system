@@ -33,16 +33,16 @@ Import the `student_db.sql` file into phpMyAdmin before running the project.
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### Student Management
-![Students](screenshots/students.png)
+![Students](student.png)
 
 ### Teacher Management
-![Teachers](screenshots/teachers.png)
+![Teachers](teacher.png)
 
 ### Enrollment
-![Enrollment](screenshots/enrollment.png)
+![Enrollment](enrollment.png)
 
 ## Author
 **Adwaith Suresh**
