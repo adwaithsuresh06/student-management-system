@@ -29,17 +29,17 @@ Import the `student_db.sql` file into phpMyAdmin before running the project.
 5. Open:
    ```
    http://localhost/student-management-system/
-```
+``
 ## Screenshots
 
 ### Home Page
 ![Home](screenshots/home.png)
 
 ### Student Management
-![Students](screenshots/student.png)
+![Students](screenshots/students.png)
 
 ### Teacher Management
-![Teachers](screenshots/teacher.png)
+![Teachers](screenshots/teachers.png)
 
 ### Enrollment
 ![Enrollment](screenshots/enrollment.png)
